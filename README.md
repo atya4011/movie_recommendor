@@ -1,4 +1,4 @@
-name: Movie Recommender System
+Movie Recommender System
 
 description: |
   This project implements a Movie Recommender System using collaborative filtering.
